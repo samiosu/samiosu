@@ -36,6 +36,7 @@
 - [GitHub](https://github.com/samiosu)
 - [Qiita](https://qiita.com/samiosu)
 - [Zenn](https://zenn.dev/samiosu)
+- [note](https://note.com/samiosu)
 
 ## ステータス
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samiosu&theme=github_dark)
