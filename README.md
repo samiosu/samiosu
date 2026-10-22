@@ -1,21 +1,3 @@
-<p align="left">
-  <a href="https://github.com/samiosu">
-    <img height="20" src="https://komarev.com/ghpvc/?username=samiosu" />
-  </a>
-  <a href="https://github.com/samiosu">
-    <img height="20" src="https://img.shields.io/github/followers/samiosu?label=follow&logo=github&style=flat" />
-  </a>
-  <a href="http://qiita.com/samiosu">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/samiosu/posts.svg" />
-  </a>
-  <a href="http://qiita.com/samiosu">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/samiosu/contributions.svg" />
-  </a>
-  <a href="https://zenn.dev/samiosu">
-    <img height="20" src="https://badgen.org/img/zenn/samiosu/articles?style=plastic" />
-  </a>
-</p>
-
 # さみおす(samiosu)
 
 ## 自己紹介
