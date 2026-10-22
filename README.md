@@ -38,6 +38,8 @@
 - [note](https://note.com/samiosu)
 - [unityroom](https://unityroom.com/users/samiosu)
 
+ZennとnoteはROM専です。
+
 ## ステータス
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samiosu&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samiosu&theme=github_dark)
