@@ -36,6 +36,7 @@
 ## リンク
 - [X](https://x.com/s4miosu)
 - [GitHub](https://github.com/samiosu)
+- [ChatGPT](https://chatgpt.com/u/samiosu)
 - [Qiita](https://qiita.com/samiosu)
 - [Zenn](https://zenn.dev/samiosu)
 - [note](https://note.com/samiosu)
