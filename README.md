@@ -22,6 +22,7 @@
   - CSS
 - Other
   - Unity
+  - (DirectX 11)
   - (Live2D)
 
 括弧()は自信がないもの
